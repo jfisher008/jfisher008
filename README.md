@@ -6,7 +6,7 @@ Current focus: AI-assisted workflows, introductory Python, documentation, projec
 
 I bring a background in accounting and finance, logistics, customer service, team supervision, and skilled trades to an expanding practice in technology. That range shapes the way I build: understand the problem, respect the people doing the work, and make the solution useful enough to earn its place.
 
-I hold a B.S. in Accounting and Finance from Wilmington University. Today, I'm extending that foundation through AI, introductory Python, and hands-on work with documentation, workflows, and digital tools.
+I hold a B.S. in Accounting and Finance from Wilmington University. Today, I'm extending that foundation through AI-assisted research and drafting, introductory Python, and hands-on work with documentation, workflows, and digital tools.
 
 ## What I'm building
 
@@ -35,18 +35,3 @@ As a father and lifelong learner, I care about creating opportunity and helping 
 I want to leave behind useful work—and the understanding that allows others to carry it forward.
 
 **Forge Forward.**
-
-<!--
-**jfisher008/jfisher008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
