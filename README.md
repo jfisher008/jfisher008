@@ -2,6 +2,8 @@
 
 **Finance foundations. Operational experience. A builder's curiosity.**
 
+Current focus: AI-assisted workflows, introductory Python, documentation, project organization, and decision tracking.
+
 I bring a background in accounting and finance, logistics, customer service, team supervision, and skilled trades to an expanding practice in technology. That range shapes the way I build: understand the problem, respect the people doing the work, and make the solution useful enough to earn its place.
 
 I hold a B.S. in Accounting and Finance from Wilmington University. Today, I'm extending that foundation through AI, introductory Python, and hands-on work with documentation, workflows, and digital tools.
